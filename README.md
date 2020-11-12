@@ -1,5 +1,3 @@
-testing....
-123445566
 
 # What's new in TensorFlow 2.x
 
